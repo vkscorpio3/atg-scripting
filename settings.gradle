@@ -1,2 +1,4 @@
 rootProject.name = 'atg-scripting'
 
+include 'Scripting'
+
